@@ -25,7 +25,7 @@ const Projects = () => {
               isBlog={false}
               title="Weather App"
               description="A React-based application that provides real-time weather updates. Users can search for weather information by city name and view current conditions, forecasts, and more."
-              ghLink="https://github.com/Spacs21/Weather-app"
+              ghLink="https://github.com/bekzod221/Weather-app"
               demoLink="https://weather-app-bekzod21.vercel.app"
             />
           </Col>
@@ -36,7 +36,7 @@ const Projects = () => {
               isBlog={false}
               title="Biletick Movies"
               description="An online movie ticket booking platform where users can browse movies, view showtimes, and purchase tickets. The platform offers a user-friendly interface for seamless booking experiences."
-              ghLink="https://github.com/Spacs21/Biletick-movies"
+              ghLink="https://github.com/bekzod221/Biletick-movies"
               demoLink="https://biletick-movies.vercel.app/"
             />
           </Col>
@@ -47,7 +47,7 @@ const Projects = () => {
               isBlog={false}
               title="MUI Pizza"
               description="A pizza ordering application built with Material-UI components. Users can customize their pizza orders, add toppings, and proceed to checkout with a smooth and responsive design."
-              ghLink="https://github.com/Spacs21/MUI-Pizza"
+              ghLink="https://github.com/bekzod221/MUI-Pizza"
               demoLink="https://mui-pizza.vercel.app/"
             />
           </Col>
@@ -58,7 +58,7 @@ const Projects = () => {
               isBlog={false}
               title="NORNLIGHT"
               description="A ReactJS routing library that simplifies navigation within React applications. It offers an intuitive API for defining routes and handling navigation events efficiently."
-              ghLink="https://github.com/Spacs21/ReajtJS-Rooter"
+              ghLink="https://github.com/bekzod221/ReajtJS-Rooter"
               demoLink="https://reajt-js-rooter.vercel.app/"
             />
           </Col>
