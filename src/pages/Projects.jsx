@@ -6,6 +6,7 @@ import weatherAppImage from "../assets/projects/weather-app.png";
 import biletickMoviesImage from "../assets/projects/biletick-movies.png";
 import muiPizzaImage from "../assets/projects/mui-pizza.png";
 import reajtJSRooterImage from "../assets/projects/reajtjs-rooter.png";
+import grabit from "../assets/projects/grabit.png";
 
 const Projects = () => {
   return (
@@ -60,6 +61,16 @@ const Projects = () => {
               description="A ReactJS routing library that simplifies navigation within React applications. It offers an intuitive API for defining routes and handling navigation events efficiently."
               ghLink="https://github.com/bekzod221/ReajtJS-Rooter"
               demoLink="https://reajt-js-rooter.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={grabit}
+              isBlog={false}
+              title="Grabit"
+              description="A ReactJS routing library that simplifies navigation within React applications. It offers an intuitive API for defining routes and handling navigation events efficiently."
+              ghLink="https://github.com/bekzod221/Grabit-Tsx"
+              demoLink="https://grabit-tsx.vercel.app"
             />
           </Col>
         </Row>
